@@ -1,6 +1,17 @@
-title: Minimal theme
+title: <p align="center"> Jishnu H </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="assets/JH_CV.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/jishnu-h-47673b33/">LinkedIn</a> |
+  <a href="https://github.com/JISHNU-H">GitHub</a>
+  
+  <br>   
+  A Data Science professional with 4+ Years of analytical experience in the Ecommerce domain.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
